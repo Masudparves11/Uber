@@ -1,0 +1,232 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+body{
+    font-family: "Roboto", sans-serif;
+}
+.navbar-brand{
+    color: #fff;
+}
+.navbar-expand-lg .navbar-collapse {
+    margin-left: 20px;
+}
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding: 0 10px;
+    color: #fff;
+    margin-left: 20px;
+    font-size: 14px;
+}
+.fa-list{
+    color: #fff !important;
+}
+.button-area a{
+    color: #fff;
+    padding: 0 10px;
+    font-size: small;
+}
+.fa-globe{
+    color: #fff;
+    font-size: small;
+}
+.en{
+    color: #fff;
+    padding: 5px;
+    font-size: small;
+}
+.Sign{
+    background-color: #fff;
+    border-radius: 20px;
+    padding: 4px 15px;
+    font-size: 13px;
+}
+.Sign:hover{
+    color: #fff;
+    background-color: #000 !important;
+    transition: .9s;
+}
+
+.header-text{
+    color: #fff;
+    margin-top: 35%;
+}
+.Request{
+    color: #fff;
+    font-size: 12px;
+}
+.header-img{
+    margin-top: 10%;
+    width: 90%;
+    border-radius: 10px;
+}
+.form-section input{
+    width: 400px;
+
+}
+.Prices{
+    padding: 5px 10px !important;
+    margin-top: 14px;
+    font-size: small;
+}
+.Prices:hover{
+    background-color: #000;
+    color: #fff;
+    transition: 0.9s;
+}
+
+@media screen and (max-width: 991px){
+    .header-text{
+        margin-top: 5%;
+    }
+    .form-section input{
+        width: 100%;
+    }
+    .header-img {
+        margin-top: 7%;
+        width: 100%;
+    }
+}
+
+.fa-location-dot{
+    color: #f27272;
+    margin-left: 40%;
+}
+**********************{}
+
+
+
+.ubaer-tabel {
+    overflow-x: scroll;
+   }
+
+.Tabel-head{
+ background-color: #fff;
+ margin-top: 10%;
+}
+.Padding{
+    background-color: #FCE6E8;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(241, 72, 72);
+    font-size: small;
+}
+.Complete{
+    background-color: #ECF7F3;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(58, 232, 113);
+    font-size: small;
+}
+.propress{
+    background-color: #ECF5FE;
+    padding: 5px;
+    border-radius: 5px;
+    color: rgb(91, 125, 237);
+    font-size: small;
+}
+.fa-file-excel{
+    color: rgb(236, 95, 95);
+}
+.fa-file{
+    color: rgb(109, 234, 109);
+}
+.fa-file-word{
+    color: rgb(120, 120, 243);
+}
+
+****************{}
+
+.box1{
+    margin-top: 5%;
+}
+
+.box-tabel{
+    background-color: #F6F2F3;
+}
+   
+.box-coca{
+    margin-top: 5%;
+}
+
+.img-box{
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 1px 1px 1px 1px #000;
+}
+.box-img1{
+  border-radius: 10px;
+}
+.img-name {
+    margin-top: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+.Robotes{
+    margin-left: 20px;
+}
+.Rider-bnt{
+    background-color: #FFB21E;
+    border-radius: 10px;
+    margin-left: 10px;
+    padding: 2px 10px;
+    margin-top: -10px;
+}
+.Tarck{
+    color: #fff;
+    font-size: 12px;
+}
+.Tarck:hover{
+    color: #000;
+    transition: .7s;
+}
+.order-area{
+    margin-top: 5%;
+}
+.Way{
+    font-size: 13px;
+    text-align: end;
+}
+.way1{
+    background-color: #DDE0E9;
+    color: #f1c065;
+    padding: 5px;
+    border-radius: 5px;
+}
+.Delivery-info{
+    font-size: 12px;
+}
+
+.Accept{
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    color: #fff;
+    box-shadow: 1px 1px 1px 1px #000;
+    background-color: #6DEA6D;
+}
+.Accept:hover{
+    background-color: #1a1a1b;
+    transition: .7s;
+    color: #fff;
+}
+.Modify{
+    margin-top: 10px;
+    padding: 5px 10px;
+    font-size: 14px;
+    margin-left: 20px;
+    color: #fff;
+    background-color:#5d34f2;
+    box-shadow: 1px 1px 1px 1px #000;
+}
+.Modify:hover{
+    color: #fff;
+}
